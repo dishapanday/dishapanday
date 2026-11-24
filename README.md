@@ -13,6 +13,7 @@ AI master's student at **Seneca Polytechnic** (Master of AI Design & Development
 
 ### Featured projects
 
+- **[Email Uplift Modelling for SFMC](https://github.com/dishapanday/email-uplift-sfmc)**: which customers visit *because* we emailed them? Uplift models on a 64,000-customer email experiment; choosing 10,000 customers by model gives ~40% more incremental visits than random, exported as an SFMC Data Extension audience with a holdout
 - **[Used Vehicle ML](https://github.com/dishapanday/used-vehicle-ml)**: price regression (R² 0.87) and sales-timeliness classification with leakage-safe scikit-learn pipelines
 - **[AI Ethics Audit: Retention-Risk Scoring](https://github.com/dishapanday/ai-ethics-audit-retention-risk)**: responsible-AI audit (100/100) covering recall vs. precision, proxy bias, privacy and a RACI governance plan for automated workforce scoring
 - **Online Shopper Purchase-Intent Prediction** *(coming soon)*: leakage-safe pipeline with SMOTE inside CV; HistGradientBoosting reached test PR-AUC 0.750 (4.8× baseline) and ROC-AUC 0.934
